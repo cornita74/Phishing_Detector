@@ -1,0 +1,4 @@
+https://google.com
+http://paypal-login-security.xyz
+http://192.168.1.1/login
+http://paypal.com@malicious-site.xyz
